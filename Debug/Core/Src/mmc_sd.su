@@ -1,0 +1,16 @@
+mmc_sd.c:12:9:SD_SPI_ReadWriteByte	16	static
+mmc_sd.c:18:6:SD_SPI_Init	8	static
+mmc_sd.c:28:6:SD_DisSelect	8	static
+mmc_sd.c:38:9:SD_Select	8	static
+mmc_sd.c:50:9:SD_WaitReady	16	static
+mmc_sd.c:67:9:SD_GetResponse	24	static
+mmc_sd.c:81:9:SD_RecvData	16	static
+mmc_sd.c:105:9:SD_SendBlock	24	static
+mmc_sd.c:128:9:SD_SendCmd	24	static
+mmc_sd.c:158:9:SD_GetCID	24	static
+mmc_sd.c:177:9:SD_GetCSD	24	static
+mmc_sd.c:193:10:SD_GetSectorCount	32	static
+mmc_sd.c:217:9:SD_Idle_Sta	16	static
+mmc_sd.c:240:9:SD_Initialize	32	static
+mmc_sd.c:319:9:SD_ReadDisk	32	static
+mmc_sd.c:353:9:SD_WriteDisk	32	static

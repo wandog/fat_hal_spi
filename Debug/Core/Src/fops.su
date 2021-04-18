@@ -1,0 +1,8 @@
+fops.c:12:6:exf_getfree	24	static
+fops.c:30:6:exf_mount	8	static
+fops.c:35:9:exf_open	16	static
+fops.c:40:9:exf_write	32	static
+fops.c:46:9:exf_read	32	static
+fops.c:52:9:exf_lseek	16	static
+fops.c:57:6:exf_close	8	static
+fops.c:62:6:FATFS_RdWrTest	40	static
